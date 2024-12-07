@@ -11,10 +11,10 @@
 | CSES   | [Asif_Alim](https://cses.fi/user/28299)   | 166   |
 | LightOJ   | [asifalim](https://lightoj.com/user/asifalim)   | 127   |
 | SPOJ   | [asifalim](https://www.spoj.com/users/asifalim/)   | 101   |
-| UVA   | [Asif Alim](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)   | 71   |
+| UVA   | [Asif Alim](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)   | 73   |
 | SeriousOJ   | [abcdef](https://judge.eluminatis-of-lu.com/user/574?tabIndex=0)   | 54   |
 | HackerEarth   | [asif alim](https://www.hackerearth.com/@asifalimnstu/)   | 28   |
 | Eolymp   | [asifalim](https://basecamp.eolymp.com/en/users/asifalim)   | 20   |
 | KATTIS   | [Asif Alim](https://open.kattis.com/users/asif-alim)   | 14   |
 | Timus   | [Alim Uddin Asif](https://acm.timus.ru/author.aspx?id=300248)   | 12   |
-| Total   |    |  4236  |
+| Total   |    |  4238  |
