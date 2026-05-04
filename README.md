@@ -14,8 +14,9 @@
 | UVA   | [Asif Alim](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)   | 73   |
 | SeriousOJ   | [abcdef](https://judge.eluminatis-of-lu.com/user/574?tabIndex=0)   | 54   |
 | HackerEarth   | [asif alim](https://www.hackerearth.com/@asifalimnstu/)   | 28   |
+| csacademy   | [asifalim](https://csacademy.com/user/asifalim)   | 23   |
 | Eolymp   | [asifalim](https://basecamp.eolymp.com/en/users/asifalim)   | 20   |
 | DMOJ   | [asifalim](https://dmoj.ca/user/asifalim/solved)   | 16   |
 | KATTIS   | [Asif Alim](https://open.kattis.com/users/asif-alim)   | 14   |
 | Timus   | [Alim Uddin Asif](https://acm.timus.ru/author.aspx?id=300248)   | 12   |
-| Total   |    |  4448  |
+| Total   |    |  4471  |
