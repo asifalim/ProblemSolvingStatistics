@@ -15,6 +15,7 @@
 | SeriousOJ   | [abcdef](https://judge.eluminatis-of-lu.com/user/574?tabIndex=0)   | 54   |
 | HackerEarth   | [asif alim](https://www.hackerearth.com/@asifalimnstu/)   | 28   |
 | Eolymp   | [asifalim](https://basecamp.eolymp.com/en/users/asifalim)   | 20   |
+| DMOJ   | [asifalim](https://dmoj.ca/user/asifalim/solved)   | 16   |
 | KATTIS   | [Asif Alim](https://open.kattis.com/users/asif-alim)   | 14   |
 | Timus   | [Alim Uddin Asif](https://acm.timus.ru/author.aspx?id=300248)   | 12   |
-| Total   |    |  4432  |
+| Total   |    |  4448  |
