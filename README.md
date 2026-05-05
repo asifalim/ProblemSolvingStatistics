@@ -1,7 +1,7 @@
 # Problem-Solving Stats Of Alim Uddin Asif
 | OJ | User Name | Solve Count |
 | -------- | -------- | -------- |
-| Codeforces   | [asifalim](https://codeforces.com/profile/asifalim)   | 2034   |
+| Codeforces   | [asifalim](https://codeforces.com/profile/asifalim)   | 2038   |
 | Toph   | [Asif_Alim](https://toph.co/u/Asif_Alim)   | 490   |
 | Leetcode   | [Asif_Alim](https://leetcode.com/u/Asif_Alim/)   |  410  |
 | Atcoder   | [Asif_Alim](https://atcoder.jp/users/Asif_Alim)   | 318   |
@@ -19,4 +19,4 @@
 | DMOJ   | [asifalim](https://dmoj.ca/user/asifalim/solved)   | 16   |
 | KATTIS   | [Asif Alim](https://open.kattis.com/users/asif-alim)   | 14   |
 | Timus   | [Alim Uddin Asif](https://acm.timus.ru/author.aspx?id=300248)   | 12   |
-| Total   |    |  4471  |
+| Total   |    |  4475  |
